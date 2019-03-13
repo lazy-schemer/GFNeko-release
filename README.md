@@ -1,2 +1,15 @@
 # GFNeko-release
 
+Introduction
+------------
+GF version of [ANeko](https://github.com/lllllT/ANeko)
+
+
+![ScreenShot](GFNeko.jpg)
+
+Download
+
+Download .apk and install your Android Phone 
+
+https://github.com/lazy-schemer/GFNeko-release/releases
+
