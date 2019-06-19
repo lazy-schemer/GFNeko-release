@@ -1,13 +1,14 @@
 # GFNeko-release
 
-Introduction
+## Introduction
 ------------
 GF version of [ANeko](https://github.com/lllllT/ANeko)
 
+![ScreenShot](jill.jpg)
 
-![ScreenShot](GFNeko.jpg)
+![ScreenShot](dorothy.jpg)
 
-Download
+## Download
 
 Download .apk and install your Android Phone 
 
