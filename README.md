@@ -12,5 +12,5 @@ GF version of [ANeko](https://github.com/lllllT/ANeko)
 
 Download .apk and install your Android Phone 
 
-https://github.com/lazy-schemer/GFNeko-release/releases
+https://github.com/naganeko/GFNeko-release/releases
 
